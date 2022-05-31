@@ -14,3 +14,5 @@ INSTALLATION
 -qb-radialmenu
 -qb-policejob
 -qb-inventory
+
+DISCORD : https://discord.gg/48tg6USu8y
